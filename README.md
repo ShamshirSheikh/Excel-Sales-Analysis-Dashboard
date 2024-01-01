@@ -1,2 +1,5 @@
 # Excel-Sales-Analysis-Dashboard
-Statistics foundation for business analysis , decision making , optimization business models and predictive analytics
+Statistics foundation for business analysis
+Data Meddeling 
+Data Visualization
+optimization business models and predictive analytics
